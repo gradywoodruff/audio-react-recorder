@@ -1,8 +1,8 @@
 {
   "name": "audio-react-recorder",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Audio / Voice Recorder for React",
-  "author": "noobieprogrammer",
+  "author": "gradywoodruff",
   "license": "MIT",
   "repository": {
     "type": "git",
