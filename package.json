@@ -1,5 +1,5 @@
 {
-  "name": "@grady/audio-react-recorder",
+  "name": "audio-react-recorder",
   "version": "2.0.0",
   "description": "Audio / Voice Recorder for React",
   "author": "gradywoodruff",
