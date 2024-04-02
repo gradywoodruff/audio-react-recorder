@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save audio-react-recorder
+npm install --save @gradywoodruff/audio-react-recorder
 ```
 
 ## DEMO

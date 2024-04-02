@@ -1,6 +1,6 @@
 {
   "name": "@gradywoodruff/audio-react-recorder",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Audio / Voice Recorder for React",
   "author": "gradywoodruff",
   "license": "MIT",
