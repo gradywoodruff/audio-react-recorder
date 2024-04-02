@@ -1,12 +1,12 @@
 {
-  "name": "audio-react-recorder",
+  "name": "@gradywoodruff/audio-react-recorder",
   "version": "2.0.0",
   "description": "Audio / Voice Recorder for React",
   "author": "gradywoodruff",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/doppelgunner/audio-react-recorder.git"
+    "url": "https://github.com/gradywoodruff/audio-react-recorder.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -14,7 +14,7 @@
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://github.com/doppelgunner/audio-react-recorder#readme",
+  "homepage": "https://github.com/gradywoodruff/audio-react-recorder#readme",
   "keywords": [
     "react",
     "record",
